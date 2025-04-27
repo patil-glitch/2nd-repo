@@ -1,2 +1,3 @@
 # 2nd-repo
-we are testing the github
+We are testing the GitHub.
+Author - jayashree patil
